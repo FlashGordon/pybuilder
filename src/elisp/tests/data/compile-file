@@ -1,0 +1,14 @@
+running nosetests
+running egg_info
+writing requirements to src/fcrepo_solr_testrunner.egg-info/requires.txt
+writing src/fcrepo_solr_testrunner.egg-info/PKG-INFO
+writing top-level names to src/fcrepo_solr_testrunner.egg-info/top_level.txt
+writing dependency_links to src/fcrepo_solr_testrunner.egg-info/dependency_links.txt
+reading manifest file 'src/fcrepo_solr_testrunner.egg-info/SOURCES.txt'
+writing manifest file 'src/fcrepo_solr_testrunner.egg-info/SOURCES.txt'
+running build_ext
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.003s
+
+OK
